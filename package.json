@@ -1,0 +1,12 @@
+{
+  "name": "dumpscript",
+  "version": "1.0.0",
+  "description": "BEST LIBRARY ON NODE.JS! (credits for package brainfuck-js embedded in a folder)",
+  "main": "dsc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
